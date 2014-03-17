@@ -1,0 +1,4 @@
+Gambit
+======
+
+C# Gamification service. 
