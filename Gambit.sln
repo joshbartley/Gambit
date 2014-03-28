@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gambit", "Gambit\Gambit.csproj", "{B9FC1079-8A54-4D02-85E6-52DC8FF8C299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gambit.Tests", "Gambit.Tests\Gambit.Tests.csproj", "{A52F1703-BE5B-4B45-8EA5-9BC1496F89C4}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Gambit.Database", "Gambit.Database\Gambit.Database.sqlproj", "{0C3900DF-B396-4C9C-AD5F-F1896C9A91ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gambit.Services", "Gambit.Services\Gambit.Services.csproj", "{950A4959-27EE-4EF8-A901-6294A8E7ECBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gambit.Models", "Gambit.Models\Gambit.Models.csproj", "{458A39E0-EC56-40BC-835D-FA23032A6A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FC1079-8A54-4D02-85E6-52DC8FF8C299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FC1079-8A54-4D02-85E6-52DC8FF8C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FC1079-8A54-4D02-85E6-52DC8FF8C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FC1079-8A54-4D02-85E6-52DC8FF8C299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52F1703-BE5B-4B45-8EA5-9BC1496F89C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52F1703-BE5B-4B45-8EA5-9BC1496F89C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52F1703-BE5B-4B45-8EA5-9BC1496F89C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52F1703-BE5B-4B45-8EA5-9BC1496F89C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3900DF-B396-4C9C-AD5F-F1896C9A91ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3900DF-B396-4C9C-AD5F-F1896C9A91ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3900DF-B396-4C9C-AD5F-F1896C9A91ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0C3900DF-B396-4C9C-AD5F-F1896C9A91ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3900DF-B396-4C9C-AD5F-F1896C9A91ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3900DF-B396-4C9C-AD5F-F1896C9A91ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{950A4959-27EE-4EF8-A901-6294A8E7ECBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950A4959-27EE-4EF8-A901-6294A8E7ECBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950A4959-27EE-4EF8-A901-6294A8E7ECBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950A4959-27EE-4EF8-A901-6294A8E7ECBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458A39E0-EC56-40BC-835D-FA23032A6A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458A39E0-EC56-40BC-835D-FA23032A6A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458A39E0-EC56-40BC-835D-FA23032A6A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458A39E0-EC56-40BC-835D-FA23032A6A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
